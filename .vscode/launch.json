@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/divyanga/Desktop/Project 4 battleship/Project 4 battleship",
+      "program": "/Users/divyanga/Desktop/Project 4 battleship/Project 4 battleship/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
